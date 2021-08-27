@@ -11,25 +11,27 @@
   <a href="https://github.com/SpiderCod3R">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpiderCod3R&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderCod3R&layout=compact&langs_count=6&theme=blueberry&show_icons=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=SpiderCod3R"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=SpiderCod3R&show_icons=true&theme=blueberry"/>
    
 
 </div>
   
 <div style="display: inline-block">
    <br>
+  &nbsp;
   <img align="center" height="30" width="30" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-26.jpg">
   <img align="center" height="30" width="30" src="https://image.flaticon.com/icons/png/512/919/919852.png">
   <img align="center" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png">
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/mongodb.png">
-  <img align="center" height="30" width="30" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png">
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/spring-logo.png"> 
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/bootstrap.png">
-    
-
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png">
+  <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
+  <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2752187-2285004.png">
+  <img align="center" height="30" width="30" src="https://miro.medium.com/max/1400/1*piK8b5rQNtCQzN4vN_oiAg.png">
 </div>
   
   ##
