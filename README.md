@@ -4,11 +4,14 @@
 #### 🐍 Python / Django
 #### 📍 Campos dos Goytacazes - RJ
 #### ✅ #opentowork
+#### 🛤️ #daleRails
+#### 🚀 #daleDjango
 
  <div>
   <a href="https://github.com/SpiderCod3R">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpiderCod3R&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderCod3R&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderCod3R&layout=compact&langs_count=6&theme=blueberry&show_icons=true"/>
+  <img height="137em" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
 </div>
   
 <div style="display: inline-block">
@@ -24,7 +27,7 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/bootstrap.png">
     
-    
+
 </div>
   
   ##
