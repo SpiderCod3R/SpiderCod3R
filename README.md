@@ -15,13 +15,6 @@
    &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderCod3R&layout=compact&langs_count=6&theme=blueberry&show_icons=true"/>
    &nbsp;
-   <img style="width: 200px" height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiderCod3R&repo=clinicLab-RAILS-API" />
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   &nbsp;
-   <img width: '200em' height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=SpiderCod3R&repo=clinicLab-DJANGO-API" />
    
    <!-- Wakatime Line -->
    <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=SpiderCod3R&theme=blueberry&langs_count=7"/>
