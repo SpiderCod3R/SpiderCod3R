@@ -1,6 +1,7 @@
 ## Alexandre Sampaio - WEB DEV FULLSTACK 👋
 
-#### 💎 Ruby On Rails - Normal & API
+#### 💎 Ruby On Rails - Normal & API,
+#### 🏕️ Cursando Angular Bootcamp - https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4
 #### 🐍 Python / Django
 #### 📍 Campos dos Goytacazes - RJ
 #### ✅ #opentowork
