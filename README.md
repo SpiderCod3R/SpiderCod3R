@@ -2,11 +2,10 @@
 
 #### 💎 Ruby On Rails - Normal & API,
 #### 🏕️ Cursando Angular Bootcamp - https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4
-#### 🐍 Python / Django
 #### 📍 Campos dos Goytacazes - RJ
 #### ✅ #opentowork
+#### 🚀 #daleAngular
 #### 🛤️ #daleRails
-#### 🚀 #daleDjango
 
 
  <div >
@@ -24,10 +23,13 @@
 <div style="display: inline-block">
    <br>
   &nbsp;
+  <img align="center" height="30" width="30" src="https://miro.medium.com/max/1400/1*piK8b5rQNtCQzN4vN_oiAg.png">
   <img align="center" height="30" width="30" src="https://icon-library.com/images/ruby-on-rails-icon/ruby-on-rails-icon-26.jpg">
-  <img align="center" height="30" width="30" src="https://image.flaticon.com/icons/png/512/919/919852.png">
   <img align="center" height="30" width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png">
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/mongodb.png">
+  
+  <img align="center" height="30" width="30" src="https://image.flaticon.com/icons/png/512/919/919852.png">
+  
   <img align="center" height="30" width="30" src="https://img.icons8.com/color/452/spring-logo.png"> 
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +38,7 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png">
   <img align="center" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png">
   <img align="center" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2752187-2285004.png">
-  <img align="center" height="30" width="30" src="https://miro.medium.com/max/1400/1*piK8b5rQNtCQzN4vN_oiAg.png">
+  
 </div>
   
   ##
