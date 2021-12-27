@@ -6,6 +6,7 @@
 #### ✅ #opentowork
 #### 🚀 #daleAngular
 #### 🛤️ #daleRails
+#### [🐍] #daleDjango
 
 
  <div >
